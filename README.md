@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @midalama
+- 👋 Hello
 - 👀 I’m interested in applying machine learning to cyber security related events and analysis.
 - 🌱 Data-Driven Security (Jay Jacobs, Bob Rudis) inspired scripts.
 - 💞️ ML/SOC questions:
